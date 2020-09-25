@@ -1,0 +1,6 @@
+*
+!.clang-format
+!.gitignore
+!CMakeLists.txt
+!/*.c
+!README.md
